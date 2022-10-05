@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moviepedia</string>
+    <string name="chip1">Adventure</string>
+    <string name="chip2">Fantastic</string>
+    <string name="filmAd">Lord of the Rings: The Return of the King</string>
+    <string name="button">TO IMDB</string>
+
+</resources>

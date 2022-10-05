@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Moviepedia</string>
+    <string name="chip1">Macera</string>
+    <string name="chip2">Fantastik</string>
+    <string name="filmAd">Yüzüklerin Efendisi: Kralın Dönüşü</string>
+    <string name="button">IMDB\'YE GİT</string>
+
+</resources>
